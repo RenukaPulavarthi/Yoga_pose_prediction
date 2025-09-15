@@ -1,1 +1,1 @@
-# Yoga_-pose_prediction
+# Yoga_pose_prediction
